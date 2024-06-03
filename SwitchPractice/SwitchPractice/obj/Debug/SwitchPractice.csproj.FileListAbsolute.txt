@@ -1,0 +1,7 @@
+E:\c# repository\SwitchPractice\SwitchPractice\obj\Debug\SwitchPractice.csproj.AssemblyReference.cache
+E:\c# repository\SwitchPractice\SwitchPractice\obj\Debug\SwitchPractice.csproj.CoreCompileInputs.cache
+E:\c# repository\SwitchPractice\SwitchPractice\bin\Debug\SwitchPractice.exe.config
+E:\c# repository\SwitchPractice\SwitchPractice\bin\Debug\SwitchPractice.exe
+E:\c# repository\SwitchPractice\SwitchPractice\bin\Debug\SwitchPractice.pdb
+E:\c# repository\SwitchPractice\SwitchPractice\obj\Debug\SwitchPractice.exe
+E:\c# repository\SwitchPractice\SwitchPractice\obj\Debug\SwitchPractice.pdb
